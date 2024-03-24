@@ -1,5 +1,5 @@
 {
-  "name": "atm",
+  "name": "ss320-atm-machine",
   "version": "1.0.0",
   "description": "ATM machine",
   "main": "index.js",
